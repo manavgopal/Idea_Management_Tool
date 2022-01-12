@@ -8,3 +8,12 @@ Idea management is a practice used to organize insights. It allows large numbers
   4. Zoom In/ Zoom Out of whiteboard, resizing the idea management tool components themselves
   5. Changes persist even after reloading
   6. <b> Use Ctrl + Left Click to select a highlight, and release Ctrl button to enter new group name. Press Enter & the highlights will be added. </b>
+
+#### Built Using
+ReactJS :- ReactJs is used to make the entire front end, since it allows me to use hooks and other modern features that make the website look smooth with no reloading whatsover like in a traditional Website.
+
+![IMT_3](https://user-images.githubusercontent.com/66859083/149096199-825e0e37-49df-427a-a0a4-09cdbab06e01.png)
+
+![IMT_2](https://user-images.githubusercontent.com/66859083/149096257-09753286-735f-4671-a730-b7bc6ea20655.png)
+
+![IMT_1](https://user-images.githubusercontent.com/66859083/149096314-a68d97fd-1b5d-40cc-a84c-3b7a90b1c4b5.png)
