@@ -2,9 +2,10 @@
 Idea management is a practice used to organize insights. It allows large numbers of sticky notes (aka highlights) to be freely combined and sorted into clusters (aka groups) based on their natural relationships. Here's how the idea management tool can look. Read all instructions at the end.
 
 ### Video link
+Video Link <a href = "https://drive.google.com/file/d/1z0g1VCrL3ABfff8JHL_jojndF1RqE5oC/view?usp=sharing"> here </a>
 
 ### Deployed link
-Checkout the app <a href="https://idemanagementtool.herokuapp.com/">here</a>
+App link <a href="https://idemanagementtool.herokuapp.com/">here</a>
 
 #### In order to run the app locally
   1. Clone the repository
